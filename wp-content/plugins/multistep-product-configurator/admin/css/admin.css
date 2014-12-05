@@ -1,0 +1,38 @@
+/*
+ * Styling for the admin
+ *
+*/
+
+/**************************
+**** ATTRIBUTES FORM *******
+**************************/
+
+.mspc-upload-field {
+	display: inline-table;
+	vertical-align: middle;
+	width: 95%;
+}
+
+.mspc-upload-field > * {
+	display: table-cell !important;
+	margin: 0 !important;
+	width: 10%;
+}
+
+.mspc-upload-field > input {
+	width: 100%;
+	line-height: 21px;
+}
+
+
+/* Helper */
+.mspc-clearfix:before, .mspc-clearfix:after { content: "\0020"; display: block; height: 0; overflow: hidden; }
+.mspc-clearfix:after { clear: both; }
+.mspc-clearfix { zoom: 1; }
+.mspc-help {font-size: 11px; cursor: help;}
+.mspc-children-floated > div {float: left;padding-right: 20px;}
+.mspc-children-floated > div:last-child {padding: 0;}
+.mspc-clear {clear: both;}
+.mspc-hidden {display: none !important;}
+.mspc-left {float: left;}
+.mspc-right {float: right;}
