@@ -1010,7 +1010,7 @@ font-size:12px;
     height:20px;
     border-radius:0px;
     -webkit-border-radius:0px;
-    background-color:#e80e8a;
+    background-color:#2f3192;
     top: 2px;
     left: 0px;
     vertical-align:text-bottom;
@@ -1202,9 +1202,9 @@ color: #666666   !important;
 
 .top-menu > ul > li > a:hover{
 
-border-bottom: 2px solid #ba087e;
-border-top: 2px solid #ba087e;
-color: #ba087e !important;
+border-bottom: 2px solid #2f3192;
+border-top: 2px solid #2f3192;
+color: #2f3192 !important;
 padding-top: 13px;
 padding-bottom: 14px;
 width:100%;
@@ -3801,7 +3801,7 @@ position: absolute;
 }
 .single-product-gallery
 .nav-holder a:hover{
-color:#e80e8a;
+color:#2f3192;
 }
 .single-product-gallery
 .nav-holder .prev-btn{
@@ -3981,7 +3981,7 @@ background-color: #D43D2F;
 background-color: #EB4D88;
 }
 .social-buttons .lipinks a:hover{
-background-color: #e80e8a;
+background-color: #2f3192;
 }
 
  .social-buttons ul li i{
@@ -4225,7 +4225,7 @@ position: absolute;
     z-index: 100;
 }
 .single-product-horizontal-gallery .next-btn:hover,.single-product-horizontal-gallery .prev-btn:hover{
-color:#e80e8a;
+color:#2f3192;
 }
 .single-product-horizontal-gallery .next-btn{
 right: -30px;
@@ -4462,8 +4462,7 @@ margin-left: -16px;
      margin-top: -2px;
  }
 .contend-logos .icon-lilipink{
-    background: #e80e8a;
-    color: #fff;
+    color: #616161;
     display: inline-block !important;
     position: relative;
     text-align: center;
@@ -4472,7 +4471,7 @@ margin-left: -16px;
     padding-top: 2px;
 }
 .contend-logos .icon-intima{
-    color: #616161;
+    color: #fff;
     display: inline-block !important;
     position: absolute;
     text-align: center;
@@ -4480,6 +4479,7 @@ margin-left: -16px;
     font-size: 18px;
     padding-top: 2px;
     margin-left: 104px;
+    background: #2f3192;
 }
 /*.contend-logos .icon-intima:hover {
     color: #fff;
@@ -4490,7 +4490,7 @@ margin-left: -16px;
     height: 0;
     border-left: 40px solid transparent;
     border-right: 40px solid transparent;
-    border-top: 8px solid #e80e8a;
+    border-top: 8px solid #2f3192;
     z-index: 1000;
     position: absolute;
     left: 150px;
@@ -4521,7 +4521,7 @@ padding-bottom: 8px;
 padding-left: 10px;
 }
 #user-top:hover{
-    color:#e80e8a;
+    color:#2f3192;
 }
  #user-top ul{
 top: 100%;
@@ -4800,7 +4800,7 @@ color: #2F2F2F;
     width: 32px;
     cursor: pointer;
     margin-left: 10px;
-    background-color: #e80e8a;
+    background-color: #2f3192;
     background-repeat: no-repeat;
     background-size: 32px 64px;
     background-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/148866/cd-icon-controller.svg");
@@ -4899,7 +4899,7 @@ display: none;
 }
 
 .pdf {
-background:#e80e8a;
+background:#2f3192;
 widht:100%;
 color: #fff;
 padding: 15px 56px;
@@ -4973,7 +4973,7 @@ margin-bottom: 16px;
 color:#fff;
     letter-spacing:1px;
     text-transform:uppercase;
-    background-color:#e80e8a;
+    background-color:#2f3192;
     font-weight:bold;
     padding:9px 15px;
     display:inline-block;
@@ -5069,7 +5069,7 @@ font-size: 13px !important;
 }
 
 .tg-031e:hover a{
-color: #e80e8a!important;
+color: #2f3192!important;
 font-size: 16px !important;
 font-weight: bold !important;
 }
@@ -5201,7 +5201,7 @@ top: 10px;
 right: -13px;
 color: #fff;
 border-radius: 2px;
-background: #e80e8a;
+background: #2f3192;
 padding: 7px;
 text-transform: uppercase;
 font-size: 13px;
@@ -5369,7 +5369,7 @@ top: 10px;
 right: -13px;
 color: #fff;
 border-radius: 2px;
-background: #e80e8a;
+background: #2f3192;
 padding: 7px;
 text-transform: uppercase;
 font-size: 13px;
@@ -5380,7 +5380,7 @@ top: 10px;
 right: -13px;
 color: #fff;
 border-radius: 2px;
-background: #e80e8a;
+background: #2f3192;
 padding: 7px;
 text-transform: uppercase;
 font-size: 13px;
@@ -5506,7 +5506,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#33c6c6c6', e
 }
 
 #mc-embedded-subscribe:hover{
-  background-color: #e80e8a !important;
+  background-color: #2f3192 !important;
 }
 
 #mc_embed_signup form {
@@ -5597,7 +5597,7 @@ margin-top: -40px;
     margin-right:7px;
     margin-top:15px;
     color:white;
-    background:#e80e8a;
+    background:#2f3192;
     border:0px;
     font-size:15px;
 }
@@ -5761,7 +5761,7 @@ top: 10px;
 right: -13px;
 color: #fff;
 border-radius: 2px;
-background: #e80e8a;
+background: #2f3192;
 padding: 7px;
 text-transform: uppercase;
 font-size: 13px;
