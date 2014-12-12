@@ -644,7 +644,7 @@ website:   	http://www.themepunch.com
 /************************************
 		-	TP BANNER TIMER		-
 *************************************/
-.tp-bannertimer								{	visibility: hidden; width:100%; height:5px; /*background:url(../assets/timer.png);*/ background: #fff; background:#ba087e ; position:absolute; z-index:200; top:0px;}
+.tp-bannertimer								{	visibility: hidden; width:100%; height:5px; /*background:url(../assets/timer.png);*/ background: #fff; background:#2f3192 ; position:absolute; z-index:200; top:0px;}
 .tp-bannertimer.tp-bottom					{	top:auto; bottom:0px !important;height:5px;}
 
 
@@ -839,7 +839,7 @@ website:   	http://www.themepunch.com
 .tp-bullets.preview2 .bullet.selected 		{	-webkit-box-shadow: none;
 											    -moz-box-shadow: none;
 											    box-shadow: none;
-												background: rgba(190, 44, 136, 1) !important;
+												background: rgba(47, 49, 146, 1) !important;
 												width: 12px !important;
 											    height: 12px !important;
 											    border: 2px solid rgba(256, 256, 256, 1) !important;
